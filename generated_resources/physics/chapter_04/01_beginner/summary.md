@@ -1,3 +1,0 @@
-This unit explores how light interacts with tiny things like atoms and electrons. We learn that light isn't just a wave but also comes in tiny energy packets called **photons**, whose energy is given by $E=hf$ (where $h$ is Planck's constant and $f$ is frequency).
-
-To understand these particle interactions, like when a photon bounces off an electron (called Compton scattering), physicists use special drawings called **Feynman diagrams**. These diagrams are like simple "storyboards" that help visualize particles being created, absorbed, or simply colliding, making complex quantum processes easier to understand.
