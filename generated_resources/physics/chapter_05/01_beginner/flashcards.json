@@ -1,0 +1,42 @@
+[
+  {
+    "front": "What is the basic purpose of Powder X-ray diffraction (PXRD)?",
+    "back": "PXRD is used for identifying the underlying structure or phase of crystalline materials by analyzing their diffraction patterns."
+  },
+  {
+    "front": "What does the term 'powder' signify in X-ray diffraction?",
+    "back": "It means the crystalline domains in the sample are randomly oriented."
+  },
+  {
+    "front": "What is Bragg's Law of diffraction?",
+    "back": "Bragg's Law is defined by the equation $n\\\\\\\\lambda = 2d\\\\\\\\sin\\\\\\\theta$, where constructive interference occurs."
+  },
+  {
+    "front": "What is the primary function of a goniometer in an X-ray diffractometer?",
+    "back": "It is used to maintain the angle and rotate the sample in the path of the collimated X-ray beam."
+  },
+  {
+    "front": "How do crystalline and amorphous substances differ in an XRD pattern?",
+    "back": "Crystalline substances show sharp Bragg peaks due to long-range order, while amorphous substances show a large bump due to lack of long-range order."
+  },
+  {
+    "front": "What is the main function of the scanning coil in an SEM?",
+    "back": "The scanning coil is used to deflect the electron beam over the specimen surface."
+  },
+  {
+    "front": "What determines the resolution of a Scanning Probe Microscope (SPM)?",
+    "back": "The resolution is primarily determined by the sharpness of the probe's apex."
+  },
+  {
+    "front": "What is the main difference between SEM and TEM regarding electron usage?",
+    "back": "SEM uses emitted secondary electrons to view surface topography, while TEM uses transmitted electrons to focus through the specimen."
+  },
+  {
+    "front": "What is the fundamental principle of TGA (Thermogravimetric Analysis)?",
+    "back": "TGA monitors the mass of a substance continuously as the temperature is linearly increased."
+  },
+  {
+    "front": "What does a Differential Thermal Analysis (DTA) curve measure?",
+    "back": "It plots the temperature difference ($\\Delta T$) between a sample and a reference material as they are heated at the same rate."
+  }
+]
