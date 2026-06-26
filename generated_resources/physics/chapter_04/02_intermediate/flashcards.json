@@ -1,0 +1,67 @@
+{
+  "chapter": "Advanced Quantum Mechanics Unit 4",
+  "subject": "Physics",
+  "level": "intermediate",
+  "flashcards": [
+    {
+      "front": "How is the total Hamiltonian ($H$) of an atomic system in a radiation field represented?",
+      "back": "It is represented as $H = H_a + H_r + H'$ where $H_a$ is the Hamiltonian of the atom, $H_r$ is the Hamiltonian of the pure radiation field, and $H'$ represents the interaction between the atom and the radiation field."
+    },
+    {
+      "front": "Write down the interaction Hamiltonian $H'$ for a non-relativistic electron of charge $q$ under the Coulomb gauge ($\\\\nabla \\\\cdot A = 0$).",
+      "back": "Under the Coulomb gauge, the interaction Hamiltonian simplifies to $H' = \\\\frac{q}{m} A \\\\cdot p$."
+    },
+    {
+      "front": "What physical condition does $\\\\hat{e} \\\\cdot K = 0$ represent in the semi-classical theory of radiation?",
+      "back": "It represents the transversality of the electromagnetic wave, meaning that the unit polarization vector $\\\\hat{e}$ is perpendicular to the propagation vector $K$."
+    },
+    {
+      "front": "What is the dipole approximation, and under what condition is it valid?",
+      "back": "The dipole approximation replaces $e^{\\\\pm i K \\\\cdot r}$ with $1$ in transition matrix elements. It is valid when the wavelength of the radiation is much larger than the atomic dimensions, meaning $K \\\\cdot r \\\\ll 1$."
+    },
+    {
+      "front": "State the commutation relation $[x, H_a]$ for an atomic system with Hamiltonian $H_a = \\\\frac{p^2}{2m} + V(r)$.",
+      "back": "$[x, H_a] = \\\\frac{i\\\\hbar}{m} p_x$"
+    },
+    {
+      "front": "How is the transition momentum matrix element $\\\\langle s | p | n \\\\rangle$ related to the position matrix element $\\\\langle s | r | n \\\\rangle$?",
+      "back": "$\\\\langle s | p | n \\\\rangle = \\\\frac{m}{i\\\\hbar} (E_n - E_s) \\\\langle s | r | n \\\\rangle = \\\\frac{m\\\\omega_{ns}}{i} \\\\langle s | r | n \\\\rangle$, where $\\\\hbar\\\\omega_{ns} = E_n - E_s$."
+    },
+    {
+      "front": "What are the eigenvalues of the total Hamiltonian $H_r$ of a quantized radiation field?",
+      "back": "The eigenvalues are given by $\\\\sum_{\\\\lambda} \\\\left(n_\\\\lambda + \\\\frac{1}{2}\\\\right) \\\\hbar \\\\omega_\\\\lambda$, where $n_\\\\lambda = 0, 1, 2, \\\\dots$ is the number of photons in mode $\\\\lambda$."
+    },
+    {
+      "front": "Define the S-matrix (scattering matrix) in terms of the time development operator $U(t, t_0)$.",
+      "back": "The S-matrix is defined as $S = \\\\lim_{t_0 \\\\to -\\\\infty, t \\\\to +\\\\infty} U(t, t_0) = U(+\\\\infty, -\\\\infty)$."
+    },
+    {
+      "front": "Define the action of the Dyson-Chronological (time-ordered) product operator $P$ on two operators $H_1(t_1)$ and $H_1(t_2)$.",
+      "back": "$P \\\\{H_1(t_1) H_1(t_2)\\\\} = H_1(t_1) H_1(t_2)$ if $t_1 > t_2$, and $H_1(t_2) H_1(t_1)$ if $t_2 > t_1$."
+    },
+    {
+      "front": "What is Thomson scattering?",
+      "back": "Thomson scattering is the scattering of electromagnetic radiation (light) by a free charged particle (e.g., an electron) without any change in its frequency."
+    },
+    {
+      "front": "What is the formula for the classical Thomson scattering cross-section $\\\\sigma_{\\\\text{Thom}}$?",
+      "back": "$\\\\sigma_{\\\\text{Thom}} = \\\\frac{8\\\\pi}{3} r_0^2$ where $r_0 = \\\\frac{e^2}{4\\\\pi m}$ is the classical electron radius."
+    },
+    {
+      "front": "How are photons and other bosons represented in Feynman diagrams?",
+      "back": "Photons are represented by wavy lines, and other bosons are represented by dotted lines."
+    },
+    {
+      "front": "In Feynman diagrams, what does a solid line terminating at a vertex represent compared to one beginning at a vertex?",
+      "back": "A solid line terminating at a vertex represents the annihilation of an electron or the creation of a positron. A solid line beginning at a vertex represents the creation of an electron or the annihilation of a positron."
+    },
+    {
+      "front": "What is the Lorentz condition for the electromagnetic four-potential $A_\\\\mu$?",
+      "back": "The Lorentz condition is $\\\\frac{\\\\partial A_\\\\mu}{\\\\partial x_\\\\mu} = 0$, which is used to simplify the Maxwell's equations to a wave equation."
+    },
+    {
+      "front": "What are the physical actions of the field operators $\\\\emptyset^+(x)$ and $\\\\emptyset^-(x)$ in quantum field theory?",
+      "back": "$\\\\emptyset^+(x)$ destroys a particle of charge $+e$ or destroys a particle of charge $-e$, whereas $\\\\emptyset^-(x)$ creates a particle of charge $-e$ or creates a particle of charge $+e$."
+    }
+  ]
+}
