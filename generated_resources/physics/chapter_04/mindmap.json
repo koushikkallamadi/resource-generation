@@ -1,0 +1,196 @@
+{
+  "name": "Advanced Quantum Mechanics Unit 4",
+  "children": [
+    {
+      "name": "Hamiltonian in the Radiation Field",
+      "children": [
+        {
+          "name": "Semiclassical Interaction",
+          "children": [
+            {
+              "name": "Interaction Hamiltonian H' = (q/m) * A . p"
+            },
+            {
+              "name": "Coulomb gauge condition (del . A = 0)"
+            }
+          ]
+        },
+        {
+          "name": "Dipole Approximation & Transitions",
+          "children": [
+            {
+              "name": "Approximation condition: k_r << 1"
+            },
+            {
+              "name": "Transition matrix elements using [r, Ha] commutator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quantization of the Radiation Field",
+      "children": [
+        {
+          "name": "Field Equations",
+          "children": [
+            {
+              "name": "3D Wave equation from Maxwell's equations"
+            },
+            {
+              "name": "Separation of variables: A(r,t) = A(r) q(t)"
+            }
+          ]
+        },
+        {
+          "name": "Quantized Hamiltonian",
+          "children": [
+            {
+              "name": "Dimensionless variables Q and P satisfying [Q, P] = ihbar"
+            },
+            {
+              "name": "Representation as a collection of independent harmonic oscillators"
+            },
+            {
+              "name": "Creation (a-dagger) and annihilation (a) operators"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Covariant Perturbation Theory & S-Matrix",
+      "children": [
+        {
+          "name": "Scattering & Time Evolution",
+          "children": [
+            {
+              "name": "S-Matrix transforming past asymptotic states to future asymptotic states"
+            },
+            {
+              "name": "U-Matrix representing the time development of the state vector"
+            }
+          ]
+        },
+        {
+          "name": "Dyson Series Expansion",
+          "children": [
+            {
+              "name": "Dyson Chronological (time-ordered) product operator P"
+            },
+            {
+              "name": "Expansion of S-matrix in power series of the interaction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scattering Processes",
+      "children": [
+        {
+          "name": "Thomson Scattering",
+          "children": [
+            {
+              "name": "Scattering of light by atom without frequency change"
+            },
+            {
+              "name": "Classical and quantum differential cross-section calculations"
+            }
+          ]
+        },
+        {
+          "name": "Compton Scattering",
+          "children": [
+            {
+              "name": "Quantum mechanical scattering of light by free charged particles with frequency shift"
+            },
+            {
+              "name": "Second-order Feynman graphs for spinless and electro Compton scattering"
+            },
+            {
+              "name": "Klein-Nishina formula for unpolarized electrons"
+            }
+          ]
+        },
+        {
+          "name": "Other Processes",
+          "children": [
+            {
+              "name": "Electron Pair Annihilation"
+            },
+            {
+              "name": "Moller Scattering for identical particle electromagnetic scattering"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Feynman Diagrams and QED Rules",
+      "children": [
+        {
+          "name": "Diagrammatic Representations",
+          "children": [
+            {
+              "name": "Wavy lines represent photons"
+            },
+            {
+              "name": "Solid lines represent fermions (electrons and positrons)"
+            },
+            {
+              "name": "Vertices represent points where fermion and photon lines meet"
+            }
+          ]
+        },
+        {
+          "name": "Feynman Rules for QED",
+          "children": [
+            {
+              "name": "Vertex factor (ie * gamma^mu)"
+            },
+            {
+              "name": "Internal fermion line propagator"
+            },
+            {
+              "name": "External line photon polarization factors"
+            },
+            {
+              "name": "Closed fermion loops take trace with factor (-1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Klein-Gordon & Maxwell Fields",
+      "children": [
+        {
+          "name": "Klein-Gordon Field",
+          "children": [
+            {
+              "name": "Representing spinless mesons (positive, negative, and neutral)"
+            },
+            {
+              "name": "Quantization of scalar fields and charge conservation"
+            }
+          ]
+        },
+        {
+          "name": "Maxwell's Field Relativistic Form",
+          "children": [
+            {
+              "name": "Antisymmetric field tensor F_mu_nu"
+            },
+            {
+              "name": "Lorentz condition and Gauge invariance"
+            },
+            {
+              "name": "Relativistic Lagrangian density and Hamiltonian density"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
