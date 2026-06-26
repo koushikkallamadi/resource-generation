@@ -1,0 +1,38 @@
+{
+  "chapter_number": 5,
+  "chapter_name": "Characterization Techniques",
+  "subject": "Physics",
+  "pdf": "5 Characterization Techniques.pdf",
+  "completed": {
+    "01_beginner": [
+      "question_bank",
+      "detailed_view",
+      "summary",
+      "flashcards",
+      "quiz",
+      "short_podcast",
+      "long_podcast",
+      "video_script"
+    ],
+    "02_intermediate": [
+      "question_bank",
+      "detailed_view",
+      "summary",
+      "flashcards",
+      "quiz",
+      "short_podcast",
+      "long_podcast",
+      "video_script"
+    ],
+    "03_advanced": [
+      "question_bank",
+      "detailed_view",
+      "summary",
+      "flashcards",
+      "quiz",
+      "short_podcast",
+      "long_podcast",
+      "video_script"
+    ]
+  }
+}
