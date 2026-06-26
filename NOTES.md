@@ -1,1 +1,1 @@
-- [x] Completed milestone 1.0 on 2026-06-26T18:10:48.820306\n- [x] Completed milestone 1.1 on 2026-06-26T18:10:49.259236\n- [x] Completed milestone 1.2 on 2026-06-26T18:11:46.912664\n
+- [x] Completed milestone 1.0 on 2026-06-26T18:10:48.820306\n- [x] Completed milestone 1.1 on 2026-06-26T18:10:49.259236\n- [x] Completed milestone 1.2 on 2026-06-26T18:11:46.912664\n- [x] Completed milestone 2.0 on 2026-06-26T18:11:47.816707\n- [x] Completed milestone 2.1 on 2026-06-26T18:11:48.129421\n
